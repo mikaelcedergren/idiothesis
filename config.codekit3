@@ -233,19 +233,6 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/assets\/styles\/_variables.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/assets\/styles\/_variables.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0
-    },
     "\/assets\/styles\/styles.css" : {
       "aP" : 1,
       "bl" : 0,
