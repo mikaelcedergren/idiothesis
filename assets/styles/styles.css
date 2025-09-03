@@ -16,6 +16,10 @@ section {
   position: relative;
 }
 
+h1 {
+  font-weight: var(--font-weight-regular);
+}
+
 h3 {
   font-family: var(--font-family-headings);
 }
