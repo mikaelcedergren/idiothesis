@@ -1,5 +1,5 @@
 body {
-    font-size: 19px;
+    font-size: 16px;
 }
 
 main {
@@ -24,7 +24,9 @@ article {
     position: relative;
     padding: 2rem;
     background-color: var(--surface);
-    top: -6rem;
-    left: 2rem;
-    max-width: 540px;
+    top: -12rem;
+    left: 3rem;
+    max-width: 580px;
+    line-height: 2;
+    min-height: 12rem;
 }
